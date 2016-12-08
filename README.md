@@ -10,4 +10,4 @@ A script to sync Jenkins configuration to another host
 
 This script should be run as the `jenkins` user.
 
-Make sure to review `sync-jenkins-config.sh` and configure as necessary.
+The target host must be set in the SYNC_JENKINS_HOST environment variable.
